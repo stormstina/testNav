@@ -8,3 +8,5 @@ changeView.addEventListener("click", () => {
     location.href = "log-in.html"
 
 })
+
+window.history.forward();
